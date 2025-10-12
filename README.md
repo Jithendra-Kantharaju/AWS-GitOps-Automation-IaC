@@ -8,7 +8,7 @@ This repository contains the Infrastructure as Code (IaC) for provisioning a com
 ## 📐 Project Architecture
 This project uses a dual-repository approach to separate infrastructure from application concerns, both automated via GitHub Actions.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/778cd52b-4987-4b19-8d83-d6be40ec9e75"" width="600px" alt="GitOps Automation">
+  <img width="1232" height="680" alt="Gitops (3)" src="https://github.com/user-attachments/assets/cb1fb5bf-f353-4a23-834e-2d6fe42266c8" />
 </div>
 
 ## 🏛️ Infrastructure Workflow (`terraform.yml`)
